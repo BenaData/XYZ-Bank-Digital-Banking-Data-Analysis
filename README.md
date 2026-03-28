@@ -36,7 +36,7 @@ which segments are most at risk, and what is the financial impact?
 
 👉 **[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/benard.mwinzi/viz/XYZBankDigitalCustomerJourneyAnalysis/DigitalCustomerJourneyAnalysis)**
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](https://github.com/BenaData/XYZ-Bank-Digital-Banking-Data-Analysis/blob/main/dashboard_preview.png.png)
 
 The dashboard covers:
 - Customer journey funnel (Registered → Activated → Active)
