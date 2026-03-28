@@ -188,4 +188,4 @@ Data Analyst | Nairobi, Kenya
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benard-musyoka1234/)
 [![Tableau](https://img.shields.io/badge/Tableau-View%20Dashboard-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/benard.mwinzi/viz/XYZBankDigitalCustomerJourneyAnalysis/DigitalCustomerJourneyAnalysis)
-[![Portfolio](https://img.shields.io/badge/Portfolio-datascienceportfol.io-1B2A4A?style=flat)](https://benadata.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1B2A4A?style=flat)](https://benadata.github.io/)
