@@ -63,10 +63,7 @@ The dashboard covers:
 ## Methodology
 
 ### Phase 1 — Data Generation
-Designed a realistic 2,000-row digital banking customer dataset with intentional
-data quality issues to simulate real-world conditions. Issues planted included
-duplicate rows, impossible dates, negative values, casing inconsistencies,
-blank strings, and ETL sync failures.
+Designed a realistic 2,000-row digital banking customer dataset  to simulate real-world conditions.
 
 ### Phase 2 — Data Cleaning (MySQL + Jupyter Notebook)
 Connected Python to MySQL via SQLAlchemy and PyMySQL. Conducted a structured
